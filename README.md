@@ -7,11 +7,11 @@ Currently if you just put your YouTube Data API v3 key to .env file it will play
 
 ### 1. Install Dependencies
 Install the required Python packages:
-```pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 ### 2. Add YouTube Data API v3 Key
 Add your Youtube API key to .env file:
-```API_KEY = ""
+```API_KEY = ""```
 
 ### 3. Configure the Settings
     Edit config.json to change the settings
@@ -21,4 +21,4 @@ Add your Youtube API key to .env file:
 
 ### 4. Running main.py
     Next run main.py file
-    ```Python main.py
+    ```Python main.py```
