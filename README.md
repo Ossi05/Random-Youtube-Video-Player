@@ -19,7 +19,7 @@ API_KEY = ""
 
 ### 3. Configure the Settings
 - Edit `config.json` to change the settings:
-  - `channel_id`: YouTube channel's ID to retrieve videos.
+  - `channel_id`: The ID of the YouTube channel to retrieve videos from.
   - `video_duration`: YouTube video's duration (`"short"`, `"medium"`, `"long"`, `"any"`).
   - `max_video_results`: The maximum number of videos to retrieve.
 
