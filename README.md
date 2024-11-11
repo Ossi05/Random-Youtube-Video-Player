@@ -1,7 +1,7 @@
 # Random-Youtube-Video-Player
 Play a random Youtube video from a certain channel. 
 
-Currently if you just put your YouTube Data API v3 key to .env file it will play a random motivation video from https://www.youtube.com/@BenLionelScott channel. You can change the channel in config.json file
+Currently if you just put your YouTube Data API v3 key to .env file it will play a random motivation video from https://www.youtube.com/@BenLionelScott channel. You can change the channel in config.json file.
 
 # Setup
 
@@ -25,5 +25,8 @@ API_KEY = ""
 
 
 ### 4. Running main.py
-    Next run main.py file
-    ```Python main.py```
+Next run main.py file
+```
+Python main.py
+```
+It will now open yur browser and play a random video
