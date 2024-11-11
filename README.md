@@ -18,10 +18,11 @@ API_KEY = ""
 ```
 
 ### 3. Configure the Settings
-    Edit config.json to change the settings
-    channel_id: Youtube channel's id to retrieve videos.
-    video_duration: Youtube video's duration ("short", "medium", "long", "any").
-    max_video_results: The maximum number of videos to retrieve.
+- Edit `config.json` to change the settings:
+  - `channel_id`: YouTube channel's ID to retrieve videos.
+  - `video_duration`: YouTube video's duration (`"short"`, `"medium"`, `"long"`, `"any"`).
+  - `max_video_results`: The maximum number of videos to retrieve.
+
 
 ### 4. Running main.py
     Next run main.py file
