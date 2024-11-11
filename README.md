@@ -29,4 +29,4 @@ Next run main.py file
 ```
 Python main.py
 ```
-It will now open yur browser and play a random video
+It will now open your browser and play a random video
